@@ -20,7 +20,7 @@ public class AddressBook implements Serializable {
 
     private Long id;
 
-    //用户id
+    //用户id123
     private Long userId;
 
     //收货人
